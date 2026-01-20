@@ -1,0 +1,2702 @@
+[
+  {
+    "company": "10",
+    "productName": "상품공시",
+    "category": "생명보험상품통일공시기준",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "9",
+    "productName": "상품공시",
+    "category": "생명보험상품공시시행세칙",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "8",
+    "productName": "상품비교공시",
+    "category": "생명보험상품비교공시기준",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "7",
+    "productName": "상품비교공시",
+    "category": "생명보험상품비교공시정보시행세칙",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "6",
+    "productName": "상품비교공시",
+    "category": "생명보험상품비교공시정보시행세칙_별지",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "5",
+    "productName": "퇴직연금사업자비교공시",
+    "category": "퇴직연금감독규정",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "4",
+    "productName": "퇴직연금사업자비교공시",
+    "category": "퇴직연금감독규정 시행세칙",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "3",
+    "productName": "금융기관보험대리점모집수수료율공시",
+    "category": "금융기관보험대리점모집수수료율공시기준",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "2",
+    "productName": "경영공시",
+    "category": "생명보험경영통일공시기준",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "1",
+    "productName": "경영공시",
+    "category": "생명보험경영공시시행세칙",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "공지",
+    "productName": "상품공시",
+    "category": "시각화된 약관 요약서 및 약관 이용 가이드북",
+    "date": "Download",
+    "details": "",
+    "pdfUrl": "",
+    "source": "공시관련 규정",
+    "sourceUrl": "https://pub.insure.or.kr/summary/disRegal/list.do"
+  },
+  {
+    "company": "<보장 확대>급여 항목 중",
+    "productName": "불임관련 질환",
+    "category": "보장 제외",
+    "date": "보험가입일 2년 후부터 급여 항목 보장 (전액본인부담금 제외)",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "선천성 뇌질환",
+    "productName": "태아일 때 가입된 경우 급여 항목 보장",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "피부질환",
+    "productName": "심한 농양 발생 등으로 급여로 인정된 부분 보장",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "<보장 축소>비급여 항목 중",
+    "productName": "도수치료",
+    "category": "질병 치료목적인 경우 연간 최대 50회 보장",
+    "date": "10회마다 병적완화 효과 등 확인 시 연간 최대 50회 보장",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "영양제, 비타민",
+    "productName": "질병 치료목적으로 투여된 경우 보장",
+    "category": "약사법령에 의하여 약제별 허가사항 또는 신고된 사항에 따라 투여된 경우 보장",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "가입자 비중",
+    "productName": "약 72.9%",
+    "category": "약 25.3%",
+    "date": "약 1.8%",
+    "details": "",
+    "pdfUrl": "",
+    "source": "계약전환제도 안내",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/info.do"
+  },
+  {
+    "company": "선택형Ⅰ 등",
+    "productName": "표준형",
+    "category": "선택형Ⅱ",
+    "date": "표준형",
+    "details": "선택형Ⅱ",
+    "pdfUrl": "",
+    "source": "세대별 상품 비교",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/prod.do"
+  },
+  {
+    "company": "판매시기",
+    "productName": "`09.10월 이전",
+    "category": "`09.10월~`15.8월",
+    "date": "`13.1월~`17.3월",
+    "details": "`15.9월~`17.3월 | `17.4월~`21.6월 | `17.4월~`21.6월 | `21.7월",
+    "pdfUrl": "",
+    "source": "세대별 상품 비교",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/prod.do"
+  },
+  {
+    "company": "자기부담비율",
+    "productName": "생명보험사 : 20%손해보험사 : 0%* 상품에 따라상이할 수 있음",
+    "category": "10%",
+    "date": "20%",
+    "details": "급여 10%비급여 20% | 20% | 급여 10%비급여 20% | 주계약(급여) 20%",
+    "pdfUrl": "",
+    "source": "세대별 상품 비교",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/prod.do"
+  },
+  {
+    "company": "특약 30%",
+    "productName": "특약 30%",
+    "category": "특약(비급여) 30%",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "세대별 상품 비교",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/prod.do"
+  },
+  {
+    "company": "갱신주기",
+    "productName": "1~5년",
+    "category": "1,3년",
+    "date": "1년",
+    "details": "1년 | 1년 | 1년 | 1년",
+    "pdfUrl": "",
+    "source": "세대별 상품 비교",
+    "sourceUrl": "https://pub.insure.or.kr/compareDis/mdclInsrn/contChange/prod.do"
+  },
+  {
+    "company": "보험회사",
+    "productName": "변액구분",
+    "category": "수령방식",
+    "date": "납입구분",
+    "details": "경과기간 | 가입채널",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "전체",
+    "productName": "일반저축성(비변액)",
+    "category": "만기 일시금 수령",
+    "date": "거치",
+    "details": "1년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t3년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t5년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t7년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t10년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t15년\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t20년 | 대면채널\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t방카슈랑스\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTM\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCM\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t기타\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t,",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "회사명",
+    "productName": "상품명",
+    "category": "유지기간",
+    "date": "일시납 보험료",
+    "details": "누적납입보험료 | 실질수익률 | 비용·수수료 | 예상실수령금액 | 세금우대여부 | 상세보기",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "적립률",
+    "productName": "공시이율",
+    "category": "수익률",
+    "date": "사업비",
+    "details": "위험보험료",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "(무)우리WON인터넷보너스주는저축보험",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.88 % | 2.25 % | -0.11 % | 1,150,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 16,700 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,940,638 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세) | 보기\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t상세보기 버튼을 클릭하시면 상품비교공시화면으로 이동하여 상세내용 비교가 가능합니다.",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "103.40 %",
+    "date": "3.40 %",
+    "details": "1,610,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 54,250 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 51,701,152 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "107.47 %",
+    "date": "7.47 %",
+    "details": "1,875,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99,650 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,737,178 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "111.71 %",
+    "date": "11.71 %",
+    "details": "2,140,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 154,900 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 55,855,848 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "121.39 %",
+    "date": "21.38 %",
+    "details": "2,535,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 259,650 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 60,693,403 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "삼성 스마트저축보험(2601)(무배당)",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.62 % | 2.33 % | -0.38 % | 1,315,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 12,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,054,410 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "102.33 %",
+    "date": "2.33 %",
+    "details": "2,260,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 38,400 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 50,784,900 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "105.15 %",
+    "date": "5.15 %",
+    "details": "3,210,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 69,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 52,574,230 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "109.74 %",
+    "date": "9.74 %",
+    "details": "3,355,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 106,200 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 54,867,740 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "116.99 %",
+    "date": "16.99 %",
+    "details": "3,570,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 178,200 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 58,494,680 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "(무)흥국생명 드림저축보험2407",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.80 % | 2.20 % | -0.20 % | 1,170,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 11,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,899,953 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "102.89 %",
+    "date": "2.88 %",
+    "details": "1,800,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 40,450 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 51,442,576 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "106.41 %",
+    "date": "6.40 %",
+    "details": "2,280,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 74,700 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,204,627 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "110.08 %",
+    "date": "10.07 %",
+    "details": "2,760,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 115,850 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 55,037,946 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "116.35 %",
+    "date": "16.34 %",
+    "details": "3,480,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 195,300 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 58,173,531 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "(무)흥국생명 프리미엄드림저축보험",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.80 % | 2.20 % | -0.20 % | 1,170,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 11,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,899,953 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "102.89 %",
+    "date": "2.88 %",
+    "details": "1,800,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 40,450 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 51,442,576 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "106.41 %",
+    "date": "6.40 %",
+    "details": "2,280,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 74,700 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,204,627 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "110.08 %",
+    "date": "10.07 %",
+    "details": "2,760,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 115,850 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 55,037,946 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "116.35 %",
+    "date": "16.34 %",
+    "details": "3,480,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 195,300 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 58,173,531 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "KDB플러스저축보험(무)",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.50 % | 2.05 % | -0.50 % | 1,245,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 13,200 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,748,152 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "101.79 %",
+    "date": "1.79 %",
+    "details": "2,110,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 42,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 50,893,253 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "104.22 %",
+    "date": "4.22 %",
+    "details": "2,950,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 76,800 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 52,107,727 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "106.73 %",
+    "date": "6.73 %",
+    "details": "3,790,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 119,400 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,364,544 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "110.66 %",
+    "date": "10.66 %",
+    "details": "5,050,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 202,200 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 55,328,641 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "신한The안심VIP저축보험Ⅲ(무배당)",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 101.18 % | - | - | 1,005,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 6,650 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 50,591,360 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "106.87 %",
+    "date": "-",
+    "details": "1,470,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 21,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,434,420 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "114.62 %",
+    "date": "-",
+    "details": "1,795,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 39,400 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 57,310,700 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "처브라이프생명",
+    "productName": "Chubb 플러스알파저축보험2601 무배당",
+    "category": "1년",
+    "date": "100,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "100,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 100.53 % | - | - | 2,470,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 4,100 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 100,527,565 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "100,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "106.39 %",
+    "date": "-",
+    "details": "2,820,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 12,900 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 106,388,590 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "100,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "116.45 %",
+    "date": "-",
+    "details": "2,860,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 22,900 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 116,451,671 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "(무) 뉴 플러스자산관리 저축보험 Ⅱ",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 100.73 % | 3.23 % | 0.73 % | 1,210,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 10,800 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 50,053,637 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "108.89 %",
+    "date": "8.88 %",
+    "details": "1,645,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 35,300 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 54,443,116 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "115.35 %",
+    "date": "15.35 %",
+    "details": "1,945,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 64,700 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 57,676,418 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "122.23 %",
+    "date": "22.23 %",
+    "details": "2,245,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 100,300 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 61,115,516 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "133.37 %",
+    "date": "33.37 %",
+    "details": "2,695,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 168,800 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 66,686,393 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "MAX 저축보험 무배당(법인)(2404)",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 100.05 % | 2.25 % | 0.04 % | 1,070,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 11,400 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 50,023,175 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "104.05 %",
+    "date": "4.04 %",
+    "details": "1,315,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 36,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 52,022,577 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "108.29 %",
+    "date": "8.28 %",
+    "details": "1,525,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 66,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 54,144,271 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "112.73 %",
+    "date": "12.72 %",
+    "details": "1,725,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 102,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 56,362,516 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "119.76 %",
+    "date": "19.76 %",
+    "details": "2,020,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 171,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 59,880,581 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "프리미엄NH저축보험(무배당)_2404_(거치형)",
+    "category": "1년",
+    "date": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "details": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 99.84 % | 2.25 % | -0.16 % | 1,170,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 15,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 49,921,027 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "3년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "103.43 %",
+    "date": "3.43 %",
+    "details": "1,600,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 48,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 51,717,153 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "5년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "107.40 %",
+    "date": "7.40 %",
+    "details": "1,920,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 87,600 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 53,699,069 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "7년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "111.53 %",
+    "date": "11.53 %",
+    "details": "2,245,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 133,800 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 55,763,806 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 일반과세 (10년 유지시 비과세)",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "10년",
+    "productName": "50,000,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원",
+    "category": "118.04 %",
+    "date": "18.04 %",
+    "details": "2,730,000 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 221,400 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 59,019,575 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t원 | 비과세",
+    "pdfUrl": "",
+    "source": "저축성 요약공시",
+    "sourceUrl": "https://pub.insure.or.kr/compareSummary/saving/list.do"
+  },
+  {
+    "company": "회사명",
+    "productName": "1분기",
+    "category": "2분기",
+    "date": "3분기",
+    "details": "결산",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "DB생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "KB라이프생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "처브라이프생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "라이나생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "AIA생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "IBK연금보험",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "교보라이프플래닛생명",
+    "productName": "다운로드",
+    "category": "다운로드",
+    "date": "다운로드",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "전체파일",
+    "productName": "1분기",
+    "category": "2분기",
+    "date": "3분기",
+    "details": "",
+    "pdfUrl": "",
+    "source": "정기공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/mngtDis/list.do"
+  },
+  {
+    "company": "회사명",
+    "productName": "서식번호",
+    "category": "서식명",
+    "date": "파일",
+    "details": "게시일자",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-20",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "7-2-2",
+    "category": "대주주가 발행한 채권 또는 주식 취득현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-20",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "7-2-1",
+    "category": "대주주에 대한 신용공여현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-20",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "7-1-3",
+    "category": "대주주가 발행한 주식의 취득",
+    "date": "Download",
+    "details": "2026-01-20",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-16",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-16",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "7-2-2",
+    "category": "대주주가 발행한 채권 또는 주식 취득현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-15",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "7-2-1",
+    "category": "대주주에 대한 신용공여현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-15",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-14",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "7-2-2",
+    "category": "대주주가 발행한 채권 또는 주식 취득현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-14",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "7-2-1",
+    "category": "대주주에 대한 신용공여현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-14",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "6-7-9-1",
+    "category": "주주총회 소집결정",
+    "date": "Download",
+    "details": "2026-01-13",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "6-7-9-9",
+    "category": "기타 주요경영사항에 대한 공시",
+    "date": "Download",
+    "details": "2026-01-13",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-08",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-08",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-08",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "6-2-4-4",
+    "category": "주요주주 변경",
+    "date": "Download",
+    "details": "2026-01-08",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "7-1-4",
+    "category": "대주주가 발행한 주식에 대한 의결권 행사",
+    "date": "Download",
+    "details": "2026-01-07",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "교보라이프플래닛생명",
+    "productName": "7-2-2",
+    "category": "대주주가 발행한 채권 또는 주식 취득현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-07",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "교보라이프플래닛생명",
+    "productName": "7-2-1",
+    "category": "대주주에 대한 신용공여현황 분기공시",
+    "date": "Download",
+    "details": "2026-01-07",
+    "pdfUrl": "",
+    "source": "수시공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/frequentDis/list.do"
+  },
+  {
+    "company": "회사명",
+    "productName": "보고서구분",
+    "category": "회계년도",
+    "date": "제목",
+    "details": "파일 | 게시일자",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 책무 변경에 따른 공시",
+    "details": "Download | 2026-01-12",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 선임에 따른 공시",
+    "details": "Download | 2026-01-12",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 사임에 관한 공시",
+    "details": "Download | 2026-01-09",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 선임에 관한 공시",
+    "details": "Download | 2026-01-09",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 선임에 관한 공시",
+    "details": "Download | 2026-01-09",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 사임에 관한 공시",
+    "details": "Download | 2026-01-09",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 책무 변경에 따른 공시",
+    "details": "Download | 2026-01-08",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 해임(사임)",
+    "details": "Download | 2026-01-08",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 선임",
+    "details": "Download | 2026-01-08",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 책무 변경에 따른 공시",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원의 선임",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2025",
+    "date": "임원의 사임에 따른 공시",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원 해임(사임 포함)에 따른 공시(2026.01.05)",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원 선임에 따른 공시 (2026.01.04)",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원 해임(사임 포함)에 따른 공시(2026.01.03)",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "임원 선임 및 해임 내역",
+    "category": "FY2026",
+    "date": "임원 선임에 따른 공시 (2026.01.01)",
+    "details": "Download | 2026-01-07",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "지배구조 내부규범",
+    "category": "FY2025",
+    "date": "지배구조내부규범",
+    "details": "Download | 2026-01-06",
+    "pdfUrl": "",
+    "source": "지배구조공시",
+    "sourceUrl": "https://pub.insure.or.kr/mngtDis/corpGov/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "대출금리",
+    "category": "연체 이자율",
+    "date": "중도상환 수수료",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "주택담보대출",
+    "productName": "신용대출",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "분할상환방식",
+    "productName": "일시상환방식",
+    "category": "소득증빙형",
+    "date": "무증빙형",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "4.66",
+    "category": "-",
+    "date": "8.88",
+    "details": "9.14 | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "4.18",
+    "category": "-",
+    "date": "5.89",
+    "details": "8.52 | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "5.08",
+    "category": "-",
+    "date": "-",
+    "details": "8.76 | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "5.01",
+    "category": "-",
+    "date": "7.41",
+    "details": "9.83 | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "5.26",
+    "category": "-",
+    "date": "-",
+    "details": "- | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "5.79",
+    "category": "-",
+    "date": "-",
+    "details": "- | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "비교기준치",
+    "productName": "5.00",
+    "category": "-",
+    "date": "7.39",
+    "details": "9.06 | 대출금리+3.00% | -",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "900점 초과",
+    "productName": "801점 ~ 900점",
+    "category": "701점 ~ 800점",
+    "date": "601점 ~ 700점",
+    "details": "501점 ~ 600점 | 401점 ~ 500점 | 301점 ~ 400점 | 300점 이하 | 평균금리\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t                            만기 10년 이상인 분할상환방식 주택담보대출 전체의 평균금리",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "대출금리",
+    "category": "4.68",
+    "date": "4.62",
+    "details": "4.72 | - | - | - | - | - | 4.66 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "대출금리",
+    "category": "-",
+    "date": "-",
+    "details": "- | - | - | - | - | - | - | 내용보기",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "대출금리",
+    "category": "4.16",
+    "date": "4.24",
+    "details": "4.37 | - | - | - | - | - | 4.18 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "대출금리",
+    "category": "5.13",
+    "date": "5.05",
+    "details": "5.13 | - | - | - | - | - | 5.08 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "대출금리",
+    "category": "5.01",
+    "date": "-",
+    "details": "- | - | - | - | - | - | 5.01 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "대출금리",
+    "category": "4.93",
+    "date": "4.88",
+    "details": "5.08 | 5.28 | 5.68 | 5.68 | - | - | 5.26 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "대출금리",
+    "category": "5.51",
+    "date": "5.76",
+    "details": "5.79 | 6.14 | 6.42 | - | - | - | 5.79 | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "대출금리",
+    "category": "3.73",
+    "date": "3.83",
+    "details": "- | - | - | - | - | - | - | ",
+    "pdfUrl": "",
+    "source": "대출유형별공시",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/householdLoanNew/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "상품구분",
+    "category": "보험계약대출 금리구성",
+    "date": "보험계약대출금리 취급비중",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "기준금리\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc",
+    "productName": "가산금리\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc",
+    "category": "대출금리\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc",
+    "date": "5% 미만\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc",
+    "details": "5.0%~6.5% 미만\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc | 6.5%~8.0% 미만\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc | 8.0%~9.5% 미만\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc | 9.5% 이상\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tasc\n\t\t\t\t\t\t\t\t\t\t\tdesc",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "금리연동형",
+    "category": "2.76",
+    "date": "1.50",
+    "details": "4.26 | 78.4 | 18.6 | 1.8 | 1.3 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "금리확정형",
+    "category": "5.09",
+    "date": "1.50",
+    "details": "6.59 | 22.1 | 20.2 | 22.9 | 34.3 | 0.6",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "금리연동형",
+    "category": "3.08",
+    "date": "1.50",
+    "details": "4.58 | 59.7 | 38.3 | 2.0 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "금리확정형",
+    "category": "3.96",
+    "date": "1.50",
+    "details": "5.46 | 52.7 | 12.1 | 18.2 | 16.0 | 1.0",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "금리연동형",
+    "category": "3.02",
+    "date": "1.50",
+    "details": "4.52 | 71.4 | 25.7 | 2.9 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "금리확정형",
+    "category": "6.37",
+    "date": "1.44",
+    "details": "7.81 | 12.4 | 7.1 | 1.3 | 75.8 | 3.4",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "금리연동형",
+    "category": "2.97",
+    "date": "1.50",
+    "details": "4.47 | 62.8 | 37.1 | 0.1 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "금리확정형",
+    "category": "4.74",
+    "date": "1.50",
+    "details": "6.24 | 6.8 | 55.3 | 18.3 | 18.0 | 1.6",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "금리연동형",
+    "category": "2.89",
+    "date": "1.50",
+    "details": "4.39 | 67.6 | 32.3 | 0.1 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "금리확정형",
+    "category": "4.84",
+    "date": "1.50",
+    "details": "6.34 | 15.1 | 32.9 | 25.2 | 25.0 | 1.8",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "금리연동형",
+    "category": "2.67",
+    "date": "1.50",
+    "details": "4.17 | 90.8 | 9.1 | 0.1 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "금리확정형",
+    "category": "3.25",
+    "date": "1.50",
+    "details": "4.75 | 58.4 | 35.9 | 4.1 | 1.6 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "금리연동형",
+    "category": "3.00",
+    "date": "1.50",
+    "details": "4.50 | 68.7 | 28.6 | 2.7 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "금리확정형",
+    "category": "3.42",
+    "date": "1.50",
+    "details": "4.92 | 55.0 | 30.6 | 6.7 | 7.2 | 0.5",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "금리연동형",
+    "category": "2.49",
+    "date": "1.50",
+    "details": "3.99 | 85.6 | 14.5 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "금리확정형",
+    "category": "4.55",
+    "date": "1.50",
+    "details": "6.05 | 15.8 | 47.9 | 21.6 | 13.8 | 1.0",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "DB생명",
+    "productName": "금리연동형",
+    "category": "2.74",
+    "date": "1.50",
+    "details": "4.24 | 53.3 | 36.3 | 10.5 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "DB생명",
+    "productName": "금리확정형",
+    "category": "4.47",
+    "date": "1.50",
+    "details": "5.97 | 28.4 | 57.2 | 9.7 | 4.5 | 0.1",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "금리연동형",
+    "category": "2.96",
+    "date": "1.48",
+    "details": "4.44 | 67.5 | 32.4 | - | 0.1 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "금리확정형",
+    "category": "4.28",
+    "date": "1.48",
+    "details": "5.76 | 34.2 | 35.8 | 21.5 | 8.1 | 0.2",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "금리연동형",
+    "category": "2.47",
+    "date": "1.50",
+    "details": "3.97 | 97.3 | 1.5 | 1.2 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "금리확정형",
+    "category": "5.04",
+    "date": "1.50",
+    "details": "6.54 | 15.1 | 26.8 | 28.7 | 26.6 | 2.7",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KB라이프생명",
+    "productName": "금리연동형",
+    "category": "2.50",
+    "date": "1.50",
+    "details": "4.00 | 96.9 | 3.1 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KB라이프생명",
+    "productName": "금리확정형",
+    "category": "4.58",
+    "date": "1.49",
+    "details": "6.07 | 29.3 | 29.6 | 15.5 | 20.8 | 4.9",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "금리연동형",
+    "category": "2.78",
+    "date": "1.50",
+    "details": "4.28 | 80.8 | 12.0 | 7.0 | 0.2 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "금리확정형",
+    "category": "4.73",
+    "date": "1.50",
+    "details": "6.23 | 9.7 | 43.6 | 28.8 | 17.6 | 0.3",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "처브라이프생명",
+    "productName": "금리연동형",
+    "category": "3.19",
+    "date": "1.50",
+    "details": "4.69 | 78.3 | 21.7 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "처브라이프생명",
+    "productName": "금리확정형",
+    "category": "4.57",
+    "date": "1.50",
+    "details": "6.07 | 28.9 | 31.0 | 25.5 | 14.7 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "금리연동형",
+    "category": "2.28",
+    "date": "1.50",
+    "details": "3.78 | 97.1 | 2.9 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "금리확정형",
+    "category": "2.67",
+    "date": "1.50",
+    "details": "4.17 | 88.5 | 5.2 | 6.3 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "금리연동형",
+    "category": "2.87",
+    "date": "1.50",
+    "details": "4.37 | 66.0 | 34.0 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "BNP파리바카디프생명",
+    "productName": "금리확정형",
+    "category": "2.46",
+    "date": "1.50",
+    "details": "3.96 | 77.5 | 222.5 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "금리연동형",
+    "category": "2.85",
+    "date": "1.50",
+    "details": "4.35 | 74.9 | 19.2 | 5.9 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "금리확정형",
+    "category": "4.41",
+    "date": "1.50",
+    "details": "5.91 | 34.6 | 31.2 | 8.9 | 23.6 | 1.7",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "라이나생명",
+    "productName": "금리연동형",
+    "category": "3.00",
+    "date": "1.33",
+    "details": "4.33 | 100.0 | - | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "라이나생명",
+    "productName": "금리확정형",
+    "category": "2.95",
+    "date": "1.44",
+    "details": "4.39 | 82.2 | 10.6 | 1.6 | 5.1 | 0.5",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "AIA생명",
+    "productName": "금리연동형",
+    "category": "2.46",
+    "date": "1.50",
+    "details": "3.96 | 91.1 | 2.7 | 6.2 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "AIA생명",
+    "productName": "금리확정형",
+    "category": "4.79",
+    "date": "1.50",
+    "details": "6.29 | 11.4 | 39.3 | 42.3 | 7.0 | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "IBK연금보험",
+    "productName": "금리연동형",
+    "category": "2.49",
+    "date": "1.48",
+    "details": "3.97 | 97.6 | 1.8 | 0.6 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "금리연동형",
+    "category": "2.41",
+    "date": "1.50",
+    "details": "3.91 | 94.3 | 5.7 | - | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "금리확정형",
+    "category": "3.74",
+    "date": "1.50",
+    "details": "5.24 | 29.4 | 55.6 | 15.0 | - | -",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "우대금리 명칭",
+    "category": "할인요건 또는 적용상품",
+    "date": "우대금리",
+    "details": "비고",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "고금리 상품",
+    "category": "금리확정형 예정이율 7.0% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "고금리 상품",
+    "category": "예정이율 8.4% 이상 보험계약",
+    "date": "0.10 ~\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 금리 9.9% 초과 시 상한(9.9%)적용",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상 고객",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "자동대출 실행건",
+    "productName": "보험료자동대출납입 실행 시",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "자동대출금 할인",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 적용금리 9.0% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "취약계층 우대",
+    "category": "만 65세 이상고객",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "고금리 상품",
+    "category": "금리확정형 예정이율 7.0% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "신한라이프생명",
+    "productName": "취약계층 우대",
+    "category": "만65세이상 고객의 금리확정형 예정이율 5.5%이상 계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "기여고객 우대",
+    "productName": "우수고객등급 에이스 이상 고객(금리연동형)",
+    "category": "0.10 ~ 0.20\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "등급별 적용 (프리미어이상 0.2%, 에이스 0.1%)",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "비대면 온라인 채널 이용자",
+    "category": "신규 비대면 온라인 채널 이용고객",
+    "date": "0.40\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "iM라이프",
+    "productName": "고금리 상품",
+    "category": "금리확정형 보험계약대출 적용금리 7% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "고연령을 위한 상품(치매,간병,실버,CI보험)",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KDB생명",
+    "productName": "고금리 상품",
+    "category": "예정이율 7.0%이상인상품",
+    "date": "0.10 ~\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 금리 9.9% 초과시 상한(9.9%)적용",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 적용금리 9.0% 이상 보험계약",
+    "date": "0.05\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상고객",
+    "category": "0.05\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "IBK연금보험",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 적용금리 6.0% 초과 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상고객",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "고금리 상품",
+    "category": "예정이율 5.0%초과 보험계약",
+    "date": "0.10 ~ 5.00\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 금리 6.5% 초과시 상한(6.5%)적용",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "교보라이프플래닛생명",
+    "productName": "취약계층 우대",
+    "category": "만 65세 이상고객",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "라이나생명",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 기준금리 5.0% 초과 보험계약",
+    "date": "0.35\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 기준금리 : [금리확정형, 변액보험] 예정이율, [금리연동형] 공시이율",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상고객",
+    "category": "0.35\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "AIA생명",
+    "productName": "취약계층 우대",
+    "category": "만 65세 이상 계약자 대출 실행시",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "자동대출 실행건",
+    "productName": "보험료자동대출납입(APL)실행 시",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "KB라이프생명",
+    "productName": "고금리 상품",
+    "category": "예정이율 8.5% 초과 보험계약",
+    "date": "0.10 ~\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 금리 9.9% 초과시 상한(9.9%) 적용",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "하나생명",
+    "productName": "고금리 상품",
+    "category": "금리확정형 예정이율 5.5% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "DB생명",
+    "productName": "고금리 상품",
+    "category": "예정이율 8.5%초과 보험계약",
+    "date": "0.10 ~\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "보험계약대출 금리 9.9% 초과시 상한(9.9%)적용",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상 고객",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "비대면 온라인 채널 이용자",
+    "productName": "사이버, 모바일(APP, WEB)에서 대출 신청시",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "기타",
+    "productName": "ARS 에서 대출 신청시",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "메트라이프생명",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 적용금리 9.5% 이상 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "취약계층 우대",
+    "category": "만 65세 이상고객",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "기여고객 우대",
+    "productName": "우수고객 대상(BLACK & RED 등급)",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "처브라이프생명",
+    "productName": "고금리 상품",
+    "category": "보험계약대출 적용금리 6.0% 초과 보험계약",
+    "date": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "details": "-",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "취약계층 우대",
+    "productName": "만 65세 이상고객",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "자동대출 실행건",
+    "productName": "보험료 자동대출 계약",
+    "category": "0.10\n\t\t\t\t\t\t\t\t\t\t\t\t\t%",
+    "date": "-",
+    "details": "",
+    "pdfUrl": "",
+    "source": "보험계약대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/insLoan/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "수수료",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "한화생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "ABL생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "교보생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "미래에셋생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "동양생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "푸본현대생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "0 원",
+    "category": "",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "변동금리",
+    "productName": "고정금리",
+    "category": "변동금리",
+    "date": "고정금리",
+    "details": "",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "0.00 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "0.00 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "1.19 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "1.00 %",
+    "category": "1.00 %",
+    "date": "0.00 %",
+    "details": "0.00 %",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "0.00 %",
+    "category": "0.00 %",
+    "date": "0.00 %",
+    "details": "0.00 %",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "1.60 %",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "0.00 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "0.00 %",
+    "category": "0.00 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "1.34 %",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "미취급",
+    "details": "미취급",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보증서 및 기타",
+    "productName": "미취급",
+    "category": "미취급",
+    "date": "0.96 %",
+    "details": "0.96 %",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "신용",
+    "productName": "0.00 %",
+    "category": "0.00 %",
+    "date": "0.96 %",
+    "details": "0.96 %",
+    "pdfUrl": "",
+    "source": "대출수수료",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/loanFee/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "최저금리",
+    "category": "최고금리",
+    "date": "비고",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "0.00",
+    "category": "0.00",
+    "date": "미취급",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "0.00",
+    "category": "0.00",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "0.00",
+    "category": "0.00",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "보험사명",
+    "productName": "최저금리",
+    "category": "최고금리",
+    "date": "비고",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "삼성생명",
+    "productName": "5.10",
+    "category": "5.10",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "흥국생명",
+    "productName": "0.00",
+    "category": "0.00",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  },
+  {
+    "company": "NH농협생명",
+    "productName": "0.00",
+    "category": "0.00",
+    "date": "",
+    "details": "",
+    "pdfUrl": "",
+    "source": "중소기업대출",
+    "sourceUrl": "https://pub.insure.or.kr/loan/type/businessInterRate/list.do"
+  }
+]

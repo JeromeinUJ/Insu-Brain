@@ -1,0 +1,82 @@
+name: Monthly Insurance Crawl
+
+on:
+  # 매달 1일 오전 3시 (한국 시간 12시)
+  schedule:
+    - cron: '0 3 1 * *'
+
+  # 수동 실행 버튼 활성화
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          cd crawler
+          npm install
+
+      - name: Install Playwright browsers
+        run: |
+          cd crawler
+          npx playwright install chromium
+
+      - name: Run crawler
+        run: |
+          cd crawler
+          node crawl-all-urls.js
+
+      - name: Check results
+        run: |
+          cd crawler/data
+          echo "수집된 파일:"
+          ls -lh products_final_*.json
+          echo ""
+          echo "수집 개수:"
+          cat products_final_*.json | grep -c "productName" || echo "0"
+
+      - name: Upload to Supabase (optional)
+        if: false  # 나중에 활성화
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          node upload-pdfs.js
+
+      - name: Commit results
+        run: |
+          git config user.name "Insurance Crawler Bot"
+          git config user.email "bot@insu-brain.com"
+          git add crawler/data/
+          git diff --staged --quiet || git commit -m "Update: $(date +'%Y-%m-%d') crawl results [skip ci]"
+          git push
+
+      - name: Create summary
+        run: |
+          cd crawler/data
+          LATEST_FILE=$(ls -t products_final_*.json | head -1)
+          PRODUCT_COUNT=$(cat $LATEST_FILE | grep -c "productName")
+          echo "## 크롤링 결과" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 📅 실행 일시: $(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "- 📊 수집 개수: $PRODUCT_COUNT 개" >> $GITHUB_STEP_SUMMARY
+          echo "- 📁 파일: $LATEST_FILE" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 출처별 통계" >> $GITHUB_STEP_SUMMARY
+          grep "source" $LATEST_FILE | sort | uniq -c | head -15 >> $GITHUB_STEP_SUMMARY
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ 크롤링 실패!"
+          echo "로그를 확인하세요: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
