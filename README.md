@@ -12,9 +12,22 @@ KB손해보험 설계사를 위한 AI 기반 보험 비교 및 추천 플랫폼 
 
 - **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS
 - **UI Components**: Shadcn/UI, Radix UI
-- **Backend**: Supabase (Auth, DB, Vector Store)
-- **Orchestrator**: n8n (AI Workflow)
+- **Database**: PostgreSQL (Coolify)
+- **Storage**: MinIO S3 (Coolify)
+- **Deployment**: Docker + Coolify
+- **Orchestrator**: n8n (AI Workflow, 예정)
 - **Utilities**: html2canvas (이미지 생성), zustand (상태 관리)
+
+## 🌐 배포 환경
+
+**프로덕션 (Coolify):**
+- URL: http://5.223.68.56:3001
+- 상태: ✅ 정상 작동 중
+- 배포일: 2026-01-21
+- 데이터베이스: PostgreSQL (15개 보험사)
+- 스토리지: MinIO S3
+
+자세한 배포 가이드는 [DEPLOYMENT.md](DEPLOYMENT.md) 참고
 
 ## 📦 설치 및 실행
 
@@ -26,28 +39,30 @@ npm install
 
 ### 2. 환경 변수 설정
 
-`.env.local.example` 파일을 복사하여 `.env.local` 생성:
+`.env.example` 파일을 복사하여 `.env.local` 생성:
 
 ```bash
-cp .env.local.example .env.local
+cp .env.example .env.local
 ```
 
-그리고 Supabase 정보 입력:
+PostgreSQL 및 MinIO 정보 입력:
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-NEXT_PUBLIC_N8N_WEBHOOK_URL=your_n8n_webhook_url (optional)
+DATABASE_URL=postgresql://postgres:[PASSWORD]@localhost:5433/postgres
+S3_ENDPOINT=https://minio-[ID].yourdomain.com
+S3_ACCESS_KEY=[ACCESS_KEY]
+S3_SECRET_KEY=[SECRET_KEY]
+S3_BUCKET=insurance-pdfs
+NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
-### 3. Supabase 데이터베이스 설정
+### 3. SSH 터널 설정 (로컬 개발)
 
-Supabase Dashboard → SQL Editor에서 `supabase/schema.sql` 파일 내용 실행:
+PostgreSQL에 접근하려면 SSH 터널이 필요합니다:
 
-1. 테이블 생성 (insurance_companies, insurance_products, recommendation_rules)
-2. Seed 데이터 삽입 (15개 보험사, KB 상품 4개, 추천 규칙 4개)
-3. RLS 정책 활성화
-4. 추천 함수 생성 (`match_recommendation_rules`)
+```bash
+ssh -L 5433:r0ww0k0c0gkk048so4ws8w04:5432 root@5.223.68.56
+```
 
 ### 4. 개발 서버 실행
 
@@ -56,6 +71,21 @@ npm run dev
 ```
 
 브라우저에서 [http://localhost:3000](http://localhost:3000) 접속
+
+### 5. 데이터베이스 스키마 실행
+
+PostgreSQL 컨테이너에서 `db/schema.sql` 실행:
+
+```bash
+# 서버에 접속
+ssh root@5.223.68.56
+
+# schema.sql 파일을 컨테이너에 복사
+docker cp /path/to/schema.sql r0ww0k0c0gkk048so4ws8w04:/tmp/schema.sql
+
+# PostgreSQL에서 실행
+docker exec r0ww0k0c0gkk048so4ws8w04 psql -U postgres -d postgres -f /tmp/schema.sql
+```
 
 ## 🎨 주요 기능
 
@@ -201,30 +231,41 @@ Insu-Brain/
 
 ## 🚀 배포
 
-### Vercel 배포
+### Docker + Coolify 배포 (현재 방식)
 
+배포 가이드는 [DEPLOYMENT.md](DEPLOYMENT.md) 참고
+
+**빠른 재배포:**
 ```bash
-npm run build
-vercel --prod
+ssh root@5.223.68.56 "cd /root/Insu-Brain && \
+  git pull origin main && \
+  docker build -t insubrain:latest . && \
+  docker stop insubrain && docker rm insubrain && \
+  docker run -d --name insubrain --network coolify -p 3001:3000 --env-file .env --restart unless-stopped insubrain:latest"
 ```
 
-### 환경 변수 설정
+### 환경 변수 (프로덕션)
 
-Vercel Dashboard → Settings → Environment Variables에 추가:
+서버의 `/root/Insu-Brain/.env` 파일:
 
-- `NEXT_PUBLIC_SUPABASE_URL`
-- `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-- `NEXT_PUBLIC_N8N_WEBHOOK_URL`
+- `DATABASE_URL`: PostgreSQL 연결 (내부 컨테이너 네트워크)
+- `S3_ENDPOINT`: MinIO S3 엔드포인트
+- `S3_ACCESS_KEY`, `S3_SECRET_KEY`: MinIO 인증 정보
+- `NEXT_PUBLIC_APP_URL`: 프로덕션 URL
 
 ## 📝 향후 개선사항
 
-- [ ] Supabase Auth 통합 (설계사 로그인)
+- [x] Supabase → PostgreSQL + MinIO 마이그레이션 (2026-01-21 완료)
+- [x] Docker 컨테이너화 및 Coolify 배포 (2026-01-21 완료)
+- [ ] 인증 시스템 구현 (설계사 로그인)
 - [ ] 실제 n8n AI Workflow 연동
 - [ ] PDF 약관 파일 업로드 기능
 - [ ] 상품 CRUD 관리자 페이지
 - [ ] 추천 규칙 시각화 대시보드
 - [ ] A/B 테스트 (어떤 멘트가 더 효과적인지)
 - [ ] 사용 로그 분석 (어떤 상품이 가장 많이 추천되는지)
+- [ ] 도메인 연결 및 HTTPS 설정
+- [ ] 월간 크롤러 Cron Job 자동화
 
 ## 📄 라이선스
 

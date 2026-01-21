@@ -1,5 +1,23 @@
 # Insu-Brain 배포 가이드
 
+## 🎉 배포 완료 (2026-01-21)
+
+**프로덕션 환경:**
+- URL: http://5.223.68.56:3001
+- 상태: ✅ 정상 작동 중
+- 컨테이너: `insubrain` (자동 재시작 설정)
+- 데이터베이스: PostgreSQL (15개 보험사 데이터 포함)
+- 스토리지: MinIO S3
+
+**마이그레이션 완료:**
+- ✅ Supabase → PostgreSQL (Coolify)
+- ✅ Supabase Storage → MinIO S3
+- ✅ Docker 컨테이너화
+- ✅ API 라우트 정상 작동
+- ✅ 추천 엔진 규칙 설정
+
+---
+
 ## 서버 배포 (Coolify Manual Deployment)
 
 ### 1. 서버 접속
@@ -57,6 +75,17 @@ docker logs -f insubrain
 
 ### 8. 접속 확인
 브라우저에서 `http://5.223.68.56:3001` 접속
+
+### 9. 빠른 재배포 (코드 변경 시)
+```bash
+# 한 번에 실행
+ssh root@5.223.68.56 "cd /root/Insu-Brain && \
+  git pull origin main && \
+  docker build -t insubrain:latest . && \
+  docker stop insubrain && \
+  docker rm insubrain && \
+  docker run -d --name insubrain --network coolify -p 3001:3000 --env-file .env --restart unless-stopped insubrain:latest"
+```
 
 ---
 
